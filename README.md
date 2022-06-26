@@ -1,3 +1,6 @@
+### Ex No. 6
+### Date: 
+
 # Sudoku Puzzle
 # AIM:
 To develop a code to solve a sudoku puzzle using contraint propagation
